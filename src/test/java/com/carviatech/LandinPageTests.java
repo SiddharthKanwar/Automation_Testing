@@ -36,6 +36,7 @@ public class LandinPageTests {
         String actualTitle = messageBox.getText();
         String expectedTitle = "Query submitted successfully";
         System.out.println("Expected: " + expectedTitle);
+        System.out.println("Expected: " + expectedTitle);
         System.out.println("Actual: " + actualTitle);
         assertEquals(expectedTitle, actualTitle);
         driver.close();
