@@ -1,0 +1,5 @@
+Link,Xpath,AssertionValue
+https://www.listingfy.in,"//*[@id=""root""]/div/footer/div/div[1]/div[1]/div/div/h2",ListingFy
+https://vendors.carvia.tech,"//*[@id=""loginform""]/h3",Log In
+https://deliciousbakers.listingfy.in/,"//*[@id=""product_feature_xwlgg""]/div/div/div/div[2]/div/div[2]/p",wheat flour
+https://showroom.listingfy.in/,"//*[@id=""product_feature_mviov""]/div/div/div/div[1]/div/div[1]/h2",Nissan Versa
